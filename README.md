@@ -67,7 +67,7 @@ These mappings also allow restarts to be super-quick - the Avato core is only do
 ## Updating Avato
 
 You can update Avato as new versions become available by simply running the command ```docker exec avato ant update``` while your Avato container is running, or from the HTML5 UI when the platoform/updates package is intalled.
-Other available Avato ant commands like "hot-deploy" can be executed im similar fashion - run ```docker exec avato ant help``` for more information.
+Other available Avato ant commands like "hot-deploy" can be executed in similar fashion - run ```docker exec avato ant help``` for more information.
 
 ## In Closing
 
