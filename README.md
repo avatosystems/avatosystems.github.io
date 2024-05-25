@@ -25,20 +25,13 @@ Avato excels in the following types of scenarios, any of which can literally sav
   
 - You're a public health authority that needs to automate an antiquated supply system across channels, vendors and locations, but you're dealing with legacy systems like Meditech that don't even provide integration APIs. Avato can adapt to any form of data and operate with any system, modern or legacy, and can reliably throttle massive amounts of transactions, sparing your EHR system while completely and reliably automating the entire process. See [How Avato helped Integrate Health Systems in British Columbia](https://avato.co/content/how-avato-helped-british-columbias-provincial-health-services-authority/) for a case study.
 
-
-- As discussed at Open Banking Expo - Avato can help with your Open Banking / Open Finance implementation by adapting your existing legacy and modern systems alike, so they can share data and adapt to the protocols necessary to enable FinTechs to connect customers to your diverse data sources.  
- 
-
-
-> NOTE: You will need valid Avato credentials as part of the process described here. **If you do not have such credentials,
-please visit <a href="https://avato.co/one/request" target="_TOP">avato.co/one/request</a> to request access to Avato distributions.**
-
-> NOTE: Any use of Avato is subject to end user evaluation license at <a href="https://avato.co/one/eula" target="_TOP">avato.co/one/eula</a>.
-You accept this agreement by installing or using the software.
+## Learn More
 
 To learn more about Avato, join the discussion in the AvatoSphere community at <a href="https://community.avato.co" target="_TOP">community.avato.co</a>, follow us on LinkedIn at <a href="https://www.linkedin.com/company/avatosystems/" target="_TOP">company/avatosystems</a>, follow our YouTube channel at <a href="https://www.youtube.com/@avatosystems" target="_TOP">@avatosystems</a>, get updated packages and configuration on GitHub at <a href="https://github.com/avatosystems" target="_TOP">github.com/avatosystems</a>, or visit our website at <a href="https://avato.co" target="_TOP">avato.co</a>.
 
 [![Avato Screen Shot](_assets/Darren-at-OBExpo.png)](https://community.avato.co)
+*As discussed at Open Banking Expo - Avato can help with your Open Banking / Open Finance implementation by adapting your existing legacy and modern systems alike, so they can share data and adapt to the protocols necessary to enable FinTechs to connect customers to your diverse data sources.*
+
 
 ## Recent Blog Posts
 
@@ -50,6 +43,12 @@ To learn more about Avato, join the discussion in the AvatoSphere community at <
 
 The fastest way to deploy Avato into a new environment is to use Docker Compose.
 Here we describe doing that in 3 easy steps, that will likely take less than two minutes.
+
+> NOTE: You will need valid Avato credentials as part of the process described here. **If you do not have such credentials,
+please visit <a href="https://avato.co/one/request" target="_TOP">avato.co/one/request</a> to request access to Avato distributions.**
+
+> NOTE: Any use of Avato is subject to end user evaluation license at <a href="https://avato.co/one/eula" target="_TOP">avato.co/one/eula</a>.
+You accept this agreement by installing or using the software.
 
 
 > TIP: A video demonstration of these steps for Windows is available at <a href="https://youtu.be/SvQEBi0fLD8?si=IU7f2xURjjqaG4Xy" target="_TOP">youtu.be/SvQEBi0fLD8?si=IU7f2xURjjqaG4Xy</a>. Note however it's even simpler than that now! See [**three steps**](#installation) below for *container-first* installation.
