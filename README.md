@@ -18,20 +18,16 @@ Skip ahead to the [Docker Installation Guide](#docker-installation-guide) sectio
 Avato excels in the following types of scenarios, any of which can literally save your organization millions of dollars and years of effort:
 
 - You're a financial institution facing a major conversion project. Avato can isolate connected systems and mirror the old systems' APIs so that connected applications are not affected by the conversion.
-  ![Avato Screen Shot](_assets/Racks.jpg)
 
 - You're a credit union facing a core banking transformation. You're looking forward to your new banking system being up, but your existing vendors aren't able to cost-effectively support the new core banking system. Avato can adapt their API connections and protocols, so they don't need to change anything - their applications continue connecting as they always have.
-  ![Avato Screen Shot](_assets/CreditUnionsConnectingPeople.jpeg)
+  
 - You're any organization that needs to feed data into a new GL system like Oracle NetSuite, and want to keep two years or more of historical data from your old system. You can implement stable reliable integration in Avato including any imaginable merging, splitting and correlation rules, and will iteratively feed past months of data through the interfaces, proving the veracity of the rules and getting data conversion as a side effect.
-  ![Avato Screen Shot](_assets/OfficeWorkers.jpg)
+  
+- You're a public health authority that needs to automate an antiquated supply system across channels, vendors and locations, but you're dealing with legacy systems like Meditech that don't even provide integration APIs. Avato can adapt to any form of data and operate with any system, modern or legacy, and can reliably throttle massive amounts of transactions, sparing your EHR system while completely and reliably automating the entire process. See [How Avato helped Integrate Health Systems in British Columbia](https://avato.co/content/how-avato-helped-british-columbias-provincial-health-services-authority/) for a case study.
 
-- You're a public health authority that needs to automate an antiquated supply system across channels, vendors and locations, but you're dealing with legacy systems like Meditech that don't even provide integration APIs.
-
-  Avato can adapt to any form of data and operate with any system, modern or legacy, and can reliably throttle massive amounts of transactions, sparing your EHR system while completely and reliably automating the entire process. See [How Avato helped Integrate Health Systems in British Columbia](https://avato.co/content/how-avato-helped-british-columbias-provincial-health-services-authority/) for a case study.
- ![Avato Screen Shot](_assets/Health-Workers.jpeg)
 
 - As discussed at Open Banking Expo - Avato can help with your Open Banking / Open Finance implementation by adapting your existing legacy and modern systems alike, so they can share data and adapt to the protocols necessary to enable FinTechs to connect customers to your diverse data sources.  
-  ![Avato Screen Shot](_assets/Avato-Open-Banking.jpg)
+ 
 
 
 > NOTE: You will need valid Avato credentials as part of the process described here. **If you do not have such credentials,
