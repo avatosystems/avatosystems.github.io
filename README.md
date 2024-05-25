@@ -15,7 +15,7 @@ Skip ahead to the [Docker Installation Guide](#docker-installation-guide) sectio
 
 ## Applications
 
-Avato excels in the following types of scenarios, any of which can literally save your organization millions of dollars and years of effort:
+Avato excels in the following types of scenarios, any of which can save your organization significant time, expense and pain on your journey to modernization:
 
 - You're a financial institution facing a major conversion project. Avato can isolate connected systems and mirror the old systems' APIs so that connected applications are not affected by the conversion.
 
